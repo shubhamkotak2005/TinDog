@@ -1,1 +1,1 @@
-# [TinDog]{https://shubhamkotak2005.github.io/TinDog/}
+# [TinDog](https://shubhamkotak2005.github.io/TinDog/)
